@@ -2,6 +2,7 @@
   <h1>Magia Exedra 自动挂机</h1>
   <p>面向 Windows 的 Magia Exedra 图像识别自动化工具</p>
   <p>支持 Link Raid、晶花、英语/日语模板与多分辨率窗口</p>
+  <p>这个就是[LUODIAN-233 Magia_Exedra_auto](https://github.com/LUODIAN-233/Magia_Exedra_auto/releases/tag/v2.5.2) </p>
   <p>
     <img alt="Platform" src="https://img.shields.io/badge/平台-Windows-0078D4">
     <img alt="Architecture" src="https://img.shields.io/badge/架构-x86--64-555555">
